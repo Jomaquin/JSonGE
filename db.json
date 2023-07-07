@@ -8,6 +8,7 @@
       "localidad":"Murcia",
       "fecha":"20/07/2023",
       "fotos":["IM1.jpg","IM2.jpg","IM3.jpg"],
+      "estado":"activo",
       "url":"https://www.ticketmaster.es/artist/iron-maiden-entradas/1225",
       "lat":376097371,
       "lon":-0.9986284
@@ -20,6 +21,7 @@
       "localidad":"Cartagena",
       "fecha":"24/06/2023",
       "fotos":["RI1.jpg","RI2.jpg","RI3.jpg"],
+      "estado":"activo",
       "url":"https://www.madnesslive.es/es/pagina/196-rock-imperium-festival-2024",
       "lat":376097371,
       "lon":-0.9986284
@@ -32,6 +34,7 @@
       "localidad":"Alicante",
       "fecha":"31/07/2023",
       "fotos":["RI1.jpg","RI2.jpg","RI3.jpg"],
+      "estado":"activo",
       "url":"https://www.madnesslive.es/es/pagina/196-rock-imperium-festival-2024",
       "lat":376097371,
       "lon":-0.9986284
